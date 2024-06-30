@@ -1,0 +1,15 @@
+site_name: OORAG
+theme:
+  name: material
+nav:
+  - loader介绍:
+     - 基本loader介绍: loader介绍/基本loader介绍.md
+     - ocr_loader介绍: loader介绍/ocr_loader介绍.md
+  - chunker介绍:
+     - chunker介绍: chunker介绍/chunker介绍.md
+  - embedder介绍:
+     - bgem3介绍: embedder介绍/bgem3介绍.md
+     - m3e介绍: embedder介绍/m3e介绍.md
+  - llm介绍:
+     - qwen2介绍: llm介绍/qwen2介绍.md
+  - 如何部署: 如何部署.md
